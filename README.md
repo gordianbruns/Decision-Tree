@@ -25,6 +25,6 @@ If you do, it will do the same thing, but with the data set of the file you ente
 
 To run the program you must be in the directory of the files and type the following into the command line:
 
-python main.py <filename> (optional)
+python main.py filename(optional)
 
 Note that the file must exist, otherwise, it is going to exit.
