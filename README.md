@@ -18,7 +18,7 @@ II. Usage
 
 The program takes one optional command line argument:
 
-	- filename
+   - filename
 
 It is set to printing the decision tree and printing the accuracy of the computed decision tree of titanic2.txt, if you do not give a command line argument.
 If you do, it will do the same thing, but with the data set of the file you entered.
